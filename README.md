@@ -93,3 +93,7 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 - MySQL is used as the database system.
 
 - CORS and body-parser middleware are used for handling cross-origin requests and parsing request bodies.
+
+## Author
+
+Karan Keshab Shrees
