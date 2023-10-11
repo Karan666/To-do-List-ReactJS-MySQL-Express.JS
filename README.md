@@ -86,10 +86,10 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ## Acknowledgments
 
--The front-end of this project is built using React.
+- The front-end of this project is built using React.
 
--The back-end is powered by Express.js.
+- The back-end is powered by Express.js.
 
--MySQL is used as the database system.
+- MySQL is used as the database system.
 
--CORS and body-parser middleware are used for handling cross-origin requests and parsing request bodies.
+- CORS and body-parser middleware are used for handling cross-origin requests and parsing request bodies.
